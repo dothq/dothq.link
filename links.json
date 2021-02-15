@@ -15,6 +15,10 @@
     {
       "slug": "jan21-pr",
       "to": "https://medium.com/dot-blog/dot-progress-report-1-14dfbc9dc934" 
-    }
+    },
+    {
+      "slug": "twitter",
+      "to": "https://twitter.com/DotBrowser" 
+    },
   ]
 }

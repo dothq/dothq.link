@@ -27,6 +27,10 @@
     {
       "slug": "twitter",
       "to": "https://twitter.com/DotBrowser" 
+    },
+    {
+      "slug": "mns",
+      "to": "https://medium.com/dot-blog/hello-new-dot-hq-landing-page-edb7b76fd3a0"
     }
   ]
 }

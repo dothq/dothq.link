@@ -9,6 +9,10 @@
       "to": "https://discord.gg/WRDEK2D" 
     },
     {
+      "slug": "matrix",
+      "to": "https://matrix.to/#/#dothq:matrix.org"
+    },
+    {
       "slug": "reddit-db",
       "to": "https://reddit.com/r/DotBrowser" 
     },

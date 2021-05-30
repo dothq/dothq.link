@@ -43,6 +43,10 @@
     {
       "slug": "mns",
       "to": "https://medium.com/dot-blog/hello-new-dot-hq-landing-page-edb7b76fd3a0"
+    },
+    {
+      "slug": "telegram"
+      "to": "https://t.me/dothq"
     }
   ]
 }

@@ -47,6 +47,10 @@
     {
       "slug": "telegram",
       "to": "https://t.me/dothq"
+    },
+    {
+      "slug": "bugs",
+      "to": "https://github.com/dothq/browser/issues"
     }
   ]
 }
